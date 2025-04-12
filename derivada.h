@@ -2,13 +2,12 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include "polinomio.h"
+
 
 class Derivada{
 public:
 
-    // Polinomio f = Polinomio::lerDoConsole();
-    // double func(int x);
+
 
     static double func(int x){
         return sin(x);
